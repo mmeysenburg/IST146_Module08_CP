@@ -24,7 +24,7 @@ For the course project, you will finish a simple weather application that access
 * `Main.java`: Main program to run the code from a user's perspective. This file's `main()` method is invoked when you click the "Run" button.
 * `NOAAReader.java`: Class with static methods to query the NOAA CDO site in order to fetch temperature data.
 * `WeatherController.java`: Controller for the application.
-* `WeatherModel.java`: This file doesn't exist! You mush write this class, implementing WeatherModelTemplate
+* `WeatherModel.java`: This file doesn't exist! You must write this class, implementing WeatherModelTemplate
 * `WeatherModelTemplate.java`: Interface describing the methods the WeatherModel must have.
 * `WeatherModelTest.java`: JUnit tests for the WeatherModel class.
 * `WeatherView.java`: Console-based UI for the application.
